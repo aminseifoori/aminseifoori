@@ -19,5 +19,55 @@ Accomplished Software Engineer with 14+ years of experience and a passion for de
   <img src="https://github.com/aminseifoori/aminseifoori/assets/44426704/95b37925-d0a5-43e1-9b9a-08c8fef673b0" hieght="64" width="64">
 </div>
 
+<br><br><br>
+
+<table width="500" align="center" >
+  <tr>
+    <td colspan="3" align="center">Experties</td>
+  </tr>
+  <tr>
+    <td>Backedn & Database</td>
+    <td>Front End</td>
+    <td>Architecture & Tools</td>
+  </tr>
+  <tr>
+    <td width="350">
+      <ul>
+        <li>ASP.NET Core</li>
+        <li>C#</li>
+        <li>Entity Framework</li>
+        <li>LINQ</li>
+        <li>RESTful API</li>
+        <li>Web API</li>
+        <li>SQL Server</li>
+        <li>Azure SQL Server</li>
+      </ul>
+    </td>
+    <td width="350"> 
+      <ul>
+        <li>CI/CD</li>
+        <li>Azure DevOps</li>
+        <li>Git</li>
+        <li>Agile Methodology</li>
+        <li>Object-Oriented Programming (OOP)</li>
+        <li>Software Development Lifecycle (SDLC)</li>
+        <li>Domain Driven Design (DDD)</li>
+        <li>MVC</li>
+      </ul>
+    </td>
+        <td width="350">
+      <ul>
+        <li>Angular 2+</li>
+        <li>TypeScript</li>
+        <li>JavaScript</li>
+        <li>jQuery</li>
+        <li>HTML5</li>
+        <li>CSS3</li>
+        <li>Bootstrap</li>
+      </ul>
+    </td>
+  </tr>
+</table>
+
 
 
