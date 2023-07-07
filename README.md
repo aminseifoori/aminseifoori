@@ -5,7 +5,7 @@ Accomplished Software Engineer with 14+ years of experience and a passion for de
 <h3 align="center">Programming Languages | Fameworks | Tools 🛠️</h3> 
 <hr>
 <div align=center>
-  <img src="https://github.com/aminseifoori/aminseifoori/assets/44426704/b4f9d6b6-8c8e-43f0-91f1-8fa91449633" hieght="64" width="64">
+  <img src="https://github.com/aminseifoori/aminseifoori/assets/44426704/62944862-7ace-433e-8ab9-48778dd02098" hieght="64" width="64">
   <img src="https://github.com/aminseifoori/Cheat-Code-Island-5/assets/44426704/5213b788-5bb7-4719-b561-4c23d6fd3864" hieght="64" width="64">
   <img src="https://github.com/aminseifoori/Cheat-Code-Island-5/assets/44426704/75bdf297-04c1-41a7-bd83-a4bca1cacd08" hieght="64" width="64">
   <img src="https://github.com/aminseifoori/Cheat-Code-Island-5/assets/44426704/9add05bb-0222-4dd7-8ea5-52802f305bd8" hieght="64" width="64">
@@ -18,6 +18,7 @@ Accomplished Software Engineer with 14+ years of experience and a passion for de
   <img src="https://github.com/aminseifoori/Cheat-Code-Island-5/assets/44426704/d0cf0cd7-276d-4d60-950c-6d8fad8f9d99" hieght="64" width="64">
   <img src="https://github.com/aminseifoori/Cheat-Code-Island-5/assets/44426704/030332ed-cc03-4572-8921-53e6839e529b" hieght="64" width="64">
 </div>
+
 
 
 <!--
