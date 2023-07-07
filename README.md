@@ -1,4 +1,4 @@
-### Hi there, I'm Amin 👋
+### Hi there, I'm Amin (He/Him)👋
 ---
 Accomplished Software Engineer with 14+ years of experience and a passion for developing robust backend systems and intuitive frontend applications. With a keen eye for detail and a strategic approach to software development, I have a proven track record of successfully delivering over 25 complex projects worth $6,000,000+ with teams of 5 to 20. Proficient in software design, adept at leading teams, Agile methodologies, and expertise to achieve exceptional outcomes.
 
@@ -6,33 +6,16 @@ Accomplished Software Engineer with 14+ years of experience and a passion for de
 <hr>
 <div align=center>
   <img src="https://github.com/aminseifoori/aminseifoori/assets/44426704/62944862-7ace-433e-8ab9-48778dd02098" hieght="64" width="64">
-  <img src="https://github.com/aminseifoori/Cheat-Code-Island-5/assets/44426704/5213b788-5bb7-4719-b561-4c23d6fd3864" hieght="64" width="64">
-  <img src="https://github.com/aminseifoori/Cheat-Code-Island-5/assets/44426704/75bdf297-04c1-41a7-bd83-a4bca1cacd08" hieght="64" width="64">
-  <img src="https://github.com/aminseifoori/Cheat-Code-Island-5/assets/44426704/9add05bb-0222-4dd7-8ea5-52802f305bd8" hieght="64" width="64">
-  <img src="https://github.com/aminseifoori/Cheat-Code-Island-5/assets/44426704/8083f3fd-5aa0-4a0b-b09d-3809d53790ce" hieght="64" width="64">
-  <img src="https://github.com/aminseifoori/Cheat-Code-Island-5/assets/44426704/731671b0-8835-4b0a-a7dc-ffa09fb6959f" hieght="64" width="64">
-  <img src="https://github.com/aminseifoori/Cheat-Code-Island-5/assets/44426704/75014ac1-0280-4baf-8755-226a5034963f" hieght="64" width="64">
-  <img src="https://github.com/aminseifoori/Cheat-Code-Island-5/assets/44426704/7511fcaa-ea50-4fdf-b04a-a5a7d15362d2" hieght="64" width="64">
-  <img src="https://github.com/aminseifoori/Cheat-Code-Island-5/assets/44426704/f4965b54-b4d6-4fb8-9185-2448e51d5936" hieght="64" width="64">
-  <img src="https://github.com/aminseifoori/Cheat-Code-Island-5/assets/44426704/023dfa2a-e56f-4fe5-bbc4-1bd1c616b6d8" hieght="64" width="64">
-  <img src="https://github.com/aminseifoori/Cheat-Code-Island-5/assets/44426704/d0cf0cd7-276d-4d60-950c-6d8fad8f9d99" hieght="64" width="64">
-  <img src="https://github.com/aminseifoori/Cheat-Code-Island-5/assets/44426704/030332ed-cc03-4572-8921-53e6839e529b" hieght="64" width="64">
+  <img src="https://github.com/aminseifoori/aminseifoori/assets/44426704/10514071-9352-45ec-aea5-e773dc5c400e" hieght="64" width="64">
+  <img src="https://github.com/aminseifoori/aminseifoori/assets/44426704/9c92845c-d2ff-4807-8aa3-506b716024c1" hieght="64" width="64">
+  <img src="https://github.com/aminseifoori/aminseifoori/assets/44426704/647a9337-75a0-45c4-a1a8-8383b314c7c0" hieght="64" width="64">
+  <img src="https://github.com/aminseifoori/aminseifoori/assets/44426704/826b3cdb-92c5-4799-831d-c7d40664ff59" hieght="64" width="64">
+  <img src="https://github.com/aminseifoori/aminseifoori/assets/44426704/337fe303-8189-48fa-b4c0-9e2df078309b" hieght="64" width="64">
+  <img src="https://github.com/aminseifoori/aminseifoori/assets/44426704/27a14327-1b01-4adc-b232-0a3e51cc25cf" hieght="64" width="64">
+  <img src="https://github.com/aminseifoori/aminseifoori/assets/44426704/3a3fa6c7-9492-4fd5-903c-68d5bbb9925e" hieght="64" width="64">
+  <img src="https://github.com/aminseifoori/aminseifoori/assets/44426704/286c6f15-93c1-46a4-b3a6-d78c7c4d0bbf" hieght="64" width="64">
+  <img src="https://github.com/aminseifoori/aminseifoori/assets/44426704/b887cb21-a280-4f4a-b346-c40f167e2151" hieght="64" width="64">
+  <img src="https://github.com/aminseifoori/aminseifoori/assets/44426704/dfc9836a-836e-4654-a407-27a2d05d92c5" hieght="64" width="64">
+  <img src="https://github.com/aminseifoori/aminseifoori/assets/44426704/95b37925-d0a5-43e1-9b9a-08c8fef673b0" hieght="64" width="64">
 </div>
 
-
-
-<!--
-
-**aminseifoori/aminseifoori** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
