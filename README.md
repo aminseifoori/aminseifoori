@@ -8,9 +8,8 @@ Accomplished Software Engineer with 14+ years of experience and a passion for de
 ![128px-LinkedIn_logo_initials](https://github.com/aminseifoori/aminseifoori/assets/44426704/76865b28-66cc-4562-bf0c-04e9308beff7)
 [![icons8-resume-64](https://github.com/aminseifoori/aminseifoori/assets/44426704/26a391f0-ad2c-4b94-afc0-aa0b44a62280)](https://vanwebservices.ca)
 
-[<a href="https://vanwebservices.ca"><img src="https://github.com/aminseifoori/aminseifoori/assets/44426704/56baffed-2237-4c7d-95be-f225b22c5066"></a>]
 
-(https://vanwebservices.ca)
+[Vancouver](https://vanwebservices.ca)
 
 
 <!--
