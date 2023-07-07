@@ -2,7 +2,7 @@
 ---
 Accomplished Software Engineer with 14+ years of experience and a passion for developing robust backend systems and intuitive frontend applications. With a keen eye for detail and a strategic approach to software development, I have a proven track record of successfully delivering over 25 complex projects worth $6,000,000+ with teams of 5 to 20. Proficient in software design, adept at leading teams, Agile methodologies, and expertise to achieve exceptional outcomes.
 
-<h3 align="center">Programming Languages | Fameworks | Tools</h3>
+<h3 align="center">Programming Languages | Fameworks | Tools 🛠️</h3> 
 <hr>
 <div align=center>
   <img src="https://github.com/aminseifoori/Cheat-Code-Island-5/assets/44426704/00de150d-be32-4c38-8fb0-e65c99beedb6" hieght="64" width="64">
